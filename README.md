@@ -45,10 +45,3 @@ The app follows the recommended **MVVM (Model-View-ViewModel)** architecture wit
 3.  Run on an Emulator or Physical Device.
 4.  Check Logcat with tag `AnalyticsLogger` to see generated OTPs (for testing) and event logs.
 
-## AI Usage
-GPT/LLM was used to:
-- Generate the initial boilerplate for Compose setup and Gradle dependencies.
-- Verify the standard approach for Timber integration in 2024.
-- Draft the README structure.
-
-All core logic (OTP validation, StateFlow management, Timer logic) was implemented and verified manually to demonstrate understanding of Kotlin and Compose fundamentals.
