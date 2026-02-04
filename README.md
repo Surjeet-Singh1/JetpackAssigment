@@ -45,3 +45,14 @@ The app follows the recommended **MVVM (Model-View-ViewModel)** architecture wit
 3.  Run on an Emulator or Physical Device.
 4.  Check Logcat with tag `AnalyticsLogger` to see generated OTPs (for testing) and event logs.
 
+## Result 
+![photo_6059704989711535909_y](https://github.com/user-attachments/assets/a342b813-9e75-4ac4-ab7b-2c8fc492a661)
+
+![photo_6059704989711535908_y](https://github.com/user-attachments/assets/bb645fcc-02d3-4329-9d56-5ce4c9577c5f)
+
+![photo_6059704989711535907_y](https://github.com/user-attachments/assets/bed77f79-ec05-4155-9111-45e627ad5e46)
+
+
+
+
+
